@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.myapp12;
+package jp.te4a.spring.boot.myapp13;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.Size;
